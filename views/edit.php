@@ -32,8 +32,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         </h4>
                     </div>
                     <div class="card-body">
-                        <div class="container">
-                            <h1>Editar Produto</h1>
                             <form method="POST">
                                 <div class="mb-3">
                                     <label for="nome" class="form-label">Nome</label>
